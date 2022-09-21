@@ -12,6 +12,7 @@
   * [Target](paid-resources/jl-motel/target.md)
   * [Player or Job own motel](paid-resources/jl-motel/player-or-job-own-motel.md)
   * [Changelog](paid-resources/jl-motel/changelog.md)
+* [🚶 JL Multicharacter](paid-resources/jl-multicharacter.md)
 
 ## 😱 Free Resources
 
